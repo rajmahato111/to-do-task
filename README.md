@@ -40,7 +40,7 @@ A full-stack todo application built with the MERN stack featuring a modern UI an
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/rajmahato111/to-do-task
 cd todo-app
 ```
 
